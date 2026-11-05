@@ -84,6 +84,30 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Txt_01_Kolore:
+        m_Texture: {fileID: 2800000, guid: 1073965d226256347bf027b623e7a9c1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Txt_01_Metal:
+        m_Texture: {fileID: 2800000, guid: fe6da56fa4396e64b9a5bd81d05fb091, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Txt_01_Normal:
+        m_Texture: {fileID: 2800000, guid: d5197186b7b9ab74594ef7f1a2705918, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Txt_02_Kolore:
+        m_Texture: {fileID: 2800000, guid: a1698d2e51dd6f249852e9c2c91d4ecd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Txt_02_Metal:
+        m_Texture: {fileID: 2800000, guid: d19733ea9b73f1c4db9ad3953d4d5f07, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Txt_02_Normal:
+        m_Texture: {fileID: 2800000, guid: 764ab23f7f9b80348b3d68844c674fd8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -119,8 +143,11 @@ Material:
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
+    - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _ScreenSpaceReflections: 1
+    - _ScreenSpaceReflectionsContributeTransparent: 1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -128,6 +155,7 @@ Material:
     - _SrcBlendAlpha: 1
     - _Surface: 0
     - _WorkflowMode: 1
+    - _XRMotionVectorsPass: 1
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}

@@ -1378,8 +1378,8 @@
     "m_ObjectId": "289bca8bdbf244fa84faf1772656107b",
     "m_Title": "METAL",
     "m_Position": {
-        "x": -1114.0,
-        "y": 331.0
+        "x": -1114.39990234375,
+        "y": 329.60009765625
     }
 }
 
@@ -1919,7 +1919,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "m_SerializedTexture": "",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"d19733ea9b73f1c4db9ad3953d4d5f07\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -3477,8 +3477,8 @@
     "m_ObjectId": "e2088aca89e34ccaa76e167539e562e0",
     "m_Title": "KOLORE",
     "m_Position": {
-        "x": -1559.0,
-        "y": -1243.0
+        "x": -1559.199951171875,
+        "y": -1244.7999267578125
     }
 }
 
@@ -3846,8 +3846,8 @@
     "m_ObjectId": "f78f750a3d2e4b2cb2655256148b83b5",
     "m_Title": "NORMAL",
     "m_Position": {
-        "x": -2173.0,
-        "y": 127.0
+        "x": -2173.599853515625,
+        "y": 124.800048828125
     }
 }
 
