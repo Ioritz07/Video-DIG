@@ -1524,7 +1524,7 @@
         "m_SerializedTexture": "",
         "m_Guid": ""
     },
-    "m_DefaultType": 0
+    "m_DefaultType": 3
 }
 
 {
@@ -1602,10 +1602,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1087.2000732421875,
-            "y": 440.8000183105469,
-            "width": 150.4000244140625,
-            "height": 33.5999755859375
+            "x": -1089.0,
+            "y": 440.9999694824219,
+            "width": 151.0,
+            "height": 34.000030517578125
         }
     },
     "m_Slots": [
@@ -1653,7 +1653,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "m_SerializedTexture": "",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"fe6da56fa4396e64b9a5bd81d05fb091\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -1778,7 +1778,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "m_SerializedTexture": "",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"1073965d226256347bf027b623e7a9c1\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -2036,7 +2036,7 @@
     "m_CustomColors": {
         "m_SerializableColors": []
     },
-    "m_TextureType": 0,
+    "m_TextureType": 1,
     "m_NormalMapSpace": 0,
     "m_EnableGlobalMipBias": true,
     "m_MipSamplingMode": 0
@@ -2155,7 +2155,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "m_SerializedTexture": "",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"764ab23f7f9b80348b3d68844c674fd8\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -2695,7 +2695,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "m_SerializedTexture": "",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"d5197186b7b9ab74594ef7f1a2705918\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
@@ -3605,7 +3605,7 @@
     "m_CustomColors": {
         "m_SerializableColors": []
     },
-    "m_TextureType": 0,
+    "m_TextureType": 1,
     "m_NormalMapSpace": 0,
     "m_EnableGlobalMipBias": true,
     "m_MipSamplingMode": 0
@@ -3628,7 +3628,7 @@
         "m_SerializedTexture": "",
         "m_Guid": ""
     },
-    "m_DefaultType": 0
+    "m_DefaultType": 3
 }
 
 {
@@ -3802,7 +3802,7 @@
     "m_PerRendererData": false,
     "m_customAttributes": [],
     "m_Value": {
-        "m_SerializedTexture": "",
+        "m_SerializedTexture": "{\"texture\":{\"fileID\":2800000,\"guid\":\"a1698d2e51dd6f249852e9c2c91d4ecd\",\"type\":3}}",
         "m_Guid": ""
     },
     "isMainTexture": false,
